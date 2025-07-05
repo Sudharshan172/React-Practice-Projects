@@ -1,4 +1,4 @@
-# Users List
+# Users List Application
 
 This is a simple React app that displays a list of users with their profile picture, name, and role. The layout is styled using Tailwind CSS.
 
