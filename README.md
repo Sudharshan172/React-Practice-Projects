@@ -6,23 +6,23 @@ This repository contains a collection of **React + Vite + Tailwind CSS** mini-pr
 
 ## 🚀 Live Projects
 
-| Project Name               | Live Demo URL                                       |
-|----------------------------|-----------------------------------------------------|
-| Users List Application     | [Live Project](https://your-deploy-link.com/users-list) |
-| Counter App                | [Live Project](https://your-deploy-link.com/counter-app) |
-| Click Counter              | [Live Project](https://your-deploy-link.com/click-counter) |
-| Fruit Counter              | [Live Project](https://your-deploy-link.com/fruit-counter) |
-| Odd/Even Number Check      | [Live Project](https://your-deploy-link.com/odd-even-check) |
-| Login App                  | [Live Project](https://your-deploy-link.com/login-app) |
-| Random Number Generator    | [Live Project](https://your-deploy-link.com/random-generator) |
-| Destination Search         | [Live Project](https://your-deploy-link.com/destination-search) |
-| Cash Withdrawal App        | [Live Project](https://your-deploy-link.com/cash-withdrawal) |
-| Letters Calculator         | [Live Project](https://your-deploy-link.com/letters-calculator) |
-| Browser History Manager    | [Live Project](https://your-deploy-link.com/browser-history) |
-| App Store Interface        | [Live Project](https://your-deploy-link.com/app-store) |
-| Coin Toss Simulation       | [Live Project](https://your-deploy-link.com/coin-toss) |
-| Comments Section           | [Live Project](https://your-deploy-link.com/comments-app) |
-| Appointments Scheduler     | [Live Project](https://your-deploy-link.com/appointments-app) |
+| Project Name              | Live Demo URL                                                          |
+|---------------------------|-----------------------------------------------------                   |
+| Userslist Application     | [Userslist App](https://userslist-nu.vercel.app/)                      |
+| Counter Application       | [Counter App](https://counter-app-nu-roan.vercel.app/)                 |
+| Clicks Counter            | [Clicks Count App](https://clicks-count.vercel.app/)                   |
+| Fruits Counter            | [Fruits Counter](https://fruits-counter-six.vercel.app/)               |
+| Check Odd or Even         | [Check Odd/Even](https://odd-even-check.vercel.app/)                   |
+| Login App                 | [Login App](https://login-app-delta-six.vercel.app/)                   |
+| Random Number Generator   | [Random Number Generator](https://random-number-generate.vercel.app/)  |
+| Search Item               | [Search Item](https://search-item.vercel.app/)                         |
+| Cash Withdrawal           | [Cash Withdrawal App](https://cash-withdrawal-lake.vercel.app/)        |
+| Count Letters             | [Count Letters](https://count-letters-chi.vercel.app/)                 |
+| Browser History Page      | [Browser History Page](https://your-deploy-link.com/browser-history)   |
+| App Store                 | [App Store](https://your-deploy-link.com/app-store)                    |
+| Coin Toss Game            | [Coin Toss](https://your-deploy-link.com/coin-toss)                    |
+| Comments App              | [Comments Page](https://your-deploy-link.com/comments-app)             |
+| Appointments App          | [Appointments App](https://your-deploy-link.com/appointments-app)      |
 
 ## 🧠 Concepts Practiced
 
