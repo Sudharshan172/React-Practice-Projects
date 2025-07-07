@@ -18,11 +18,11 @@ This repository contains a collection of **React + Vite + Tailwind CSS** mini-pr
 | Search Item               | [Search Item](https://search-item.vercel.app/)                         |
 | Cash Withdrawal           | [Cash Withdrawal App](https://cash-withdrawal-lake.vercel.app/)        |
 | Count Letters             | [Count Letters](https://count-letters-chi.vercel.app/)                 |
-| Browser History Page      | [Browser History Page](https://your-deploy-link.com/browser-history)   |
-| App Store                 | [App Store](https://your-deploy-link.com/app-store)                    |
-| Coin Toss Game            | [Coin Toss](https://your-deploy-link.com/coin-toss)                    |
-| Comments App              | [Comments Page](https://your-deploy-link.com/comments-app)             |
-| Appointments App          | [Appointments App](https://your-deploy-link.com/appointments-app)      |
+| Browser History Page      | [Browser History Page](https://browser-history-page.vercel.app/)       |
+| App Store                 | [App Store](https://app-store-wheat-gamma.vercel.app/)                 |
+| Coin Toss Game            | [Coin Toss](https://coin-toss-eight.vercel.app/)                       |
+| Comments App              | [Comments Page](https://comments-app-coral.vercel.app/)                |
+| Appointments App          | [Appointments App](https://appointments-app-six.vercel.app/)           |
 
 ## 🧠 Concepts Practiced
 
