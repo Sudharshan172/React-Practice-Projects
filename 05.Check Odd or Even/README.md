@@ -1,12 +1,18 @@
-# React + Vite
+# Odd-Even Number Checker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application displays a number and classifies it as either Odd or Even. The number updates to a random value between 0 and 100 on each button click.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Random number generation
+- Even/Odd logic
+- Conditional styling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💡 Concepts Practiced
+- JavaScript number logic
+- Conditional rendering with `if/else`
+- Color styling with Tailwind
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Technologies
+- React
+- Tailwind CSS
+- Vite
