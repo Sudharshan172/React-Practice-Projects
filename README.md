@@ -5,11 +5,13 @@ This repository contains a collection of **React + Vite + Tailwind CSS** mini-pr
 ---
 
 ## Highlighted Projects
-Appointments App: [Appointments App](https://appointments-app-six.vercel.app/)
-Money Manager: [Money Manager](https://money-manager-swart.vercel.app/)
-Emoji Game: [Emoji Game](https://emoji-game-kappa.vercel.app/)
-Password Manager: [Password Manager](https://password-manager-ten-gilt.vercel.app/)
-Match Game: [Match Game](https://match-game-woad-nu.vercel.app/)
+
+- [Appointments App](https://appointments-app-six.vercel.app/)
+- [Money Manager](https://money-manager-swart.vercel.app/)
+- [Emoji Game](https://emoji-game-kappa.vercel.app/)
+- [Password Manager](https://password-manager-ten-gilt.vercel.app/)
+- [Match Game](https://match-game-woad-nu.vercel.app/)
+
 
 ## 🚀 Live Projects
 
