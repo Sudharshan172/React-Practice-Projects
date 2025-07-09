@@ -23,11 +23,11 @@ This repository contains a collection of **React + Vite + Tailwind CSS** mini-pr
 | Coin Toss Game            | [Coin Toss](https://coin-toss-eight.vercel.app/)                       |
 | Comments App              | [Comments Page](https://comments-app-coral.vercel.app/)                |
 | Appointments App          | [Appointments App](https://appointments-app-six.vercel.app/)           |
-| Money Manager             | [Money Manager](https://count-letters-chi.vercel.app/)                 |
-| Emoji Game                | [Emoji Game](https://browser-history-page.vercel.app/)                 |
-| Timer App                 | [Timer App](https://app-store-wheat-gamma.vercel.app/)                 |
-| Stop Watch                | [Stop Watch](https://coin-toss-eight.vercel.app/)                      |
-| Password Manager          | [Password Manager](https://comments-app-coral.vercel.app/)             |
+| Money Manager             | [Money Manager](https://money-manager-swart.vercel.app/)               |
+| Emoji Game                | [Emoji Game](https://emoji-game-kappa.vercel.app/)                     |
+| Timer App                 | [Timer App](https://timer-app-eight-alpha.vercel.app/)                 |
+| Stop Watch                | [Stop Watch](https://stopwatch-iota-taupe.vercel.app/)                 |
+| Password Manager          | [Password Manager](https://password-manager-ten-gilt.vercel.app/)      |
 | Match Game                | [Match Game](https://appointments-app-six.vercel.app/)                 |
 
 ## 🧠 Concepts Practiced
