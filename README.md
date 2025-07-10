@@ -1,6 +1,6 @@
 # React Practice Projects
 
-This repository contains a collection of **React + Vite + Tailwind CSS** mini-projects built to practice and understand core React concepts and their practical applications in real-world interfaces.
+This repository contains a collection of **React + Vite + Tailwind CSS** mini-projects built to practice and understand core React concepts and their practical applications in real-world projects.
 
 ---
 
