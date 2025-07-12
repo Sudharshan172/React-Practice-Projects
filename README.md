@@ -41,19 +41,51 @@ This repository contains a collection of **React + Vite + Tailwind CSS** mini-pr
 
 ## 🧠 Concepts Practiced
 
-- ⚛️ React functional components & Hooks (`useState`)
-- 🧠 State-driven UI rendering and live updates
-- 💬 Conditional rendering using:
+- ⚛️ React fundamentals:
+  - Functional components
+  - Component composition and reuse
+  - State management using `useState`
+  - Event handling and prop communication
+
+- ⏱ Timer logic:
+  - Countdown with `setInterval`
+  - Pause/resume with `useRef`
+  - Game-ending conditions and resets
+
+- 💬 Conditional rendering:
   - `if...else` blocks
-  - ternary (`? :`) operator
-  - logical AND (`&&`) operator
-- 🔁 List rendering with `.map()` and dynamic filtering
-- 🧱 Prop passing, destructuring, and modular components
-- 🎨 Responsive UI and layout management with **Tailwind CSS**
-- 🔍 Search and filter logic using `.includes()`
-- 🎲 Random number generation, coin flips, and UI state effects
-- 🗂 Form handling and controlled inputs
-- 📝 Interaction logic (like, delete, star, comment)
+  - Ternary (`? :`) operator
+  - Logical AND (`&&`)
+
+- 🔁 Dynamic lists and UI:
+  - `.map()` for rendering arrays
+  - `.filter()` and `.includes()` for search and category logic
+  - Real-time updates and delete functionality
+
+- 🗂 Form handling:
+  - Controlled inputs (`value` + `onChange`)
+  - Form submission and validation
+  - Reset and error handling
+
+- 🔐 Interaction & user logic:
+  - Like toggles and button states
+  - Avatar initials and visual feedback
+  - Star favorites, password visibility toggles
+
+- 🎮 Game mechanics:
+  - Score tracking and win/lose states
+  - Emoji memory game logic
+  - Image match verification
+
+- 🎨 Layout and styling with Tailwind CSS:
+  - Responsive design (mobile-first)
+  - Flex and Grid structures
+  - Hover effects and transitions
+  - Dynamic styling via class arrays
+
+- 🔧 External tools:
+  - `uuid` for generating unique IDs
+  - Custom assets and hosted image links
 
 ---
 
